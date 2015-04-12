@@ -1,0 +1,5 @@
+C:\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.csprojResolveAssemblyReference.cache
+C:\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.dll
+C:\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
+C:\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.dll
+C:\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.pdb

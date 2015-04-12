@@ -1,0 +1,11 @@
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\GitDemoTest.dll
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\GitDemoTest.pdb
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\GitDemo.dll
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\Moq.dll
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\nunit.framework.dll
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\GitDemo.pdb
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\Moq.xml
+C:\Projects\GitDemo\GitDemoTest\bin\Debug\nunit.framework.xml
+C:\Projects\GitDemo\GitDemoTest\obj\Debug\GitDemoTest.csprojResolveAssemblyReference.cache
+C:\Projects\GitDemo\GitDemoTest\obj\Debug\GitDemoTest.dll
+C:\Projects\GitDemo\GitDemoTest\obj\Debug\GitDemoTest.pdb
