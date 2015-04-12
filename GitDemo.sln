@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDemo", "GitDemo\GitDemo.csproj", "{4AD0B7BD-A104-4009-9B66-912E20369690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDemoTest", "GitDemoTest\GitDemoTest.csproj", "{4AD66F83-0B2D-4C47-BD36-E877BAA9DB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD0B7BD-A104-4009-9B66-912E20369690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD0B7BD-A104-4009-9B66-912E20369690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD0B7BD-A104-4009-9B66-912E20369690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD0B7BD-A104-4009-9B66-912E20369690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD66F83-0B2D-4C47-BD36-E877BAA9DB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD66F83-0B2D-4C47-BD36-E877BAA9DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD66F83-0B2D-4C47-BD36-E877BAA9DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD66F83-0B2D-4C47-BD36-E877BAA9DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
